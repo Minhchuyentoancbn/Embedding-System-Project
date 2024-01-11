@@ -1,5 +1,4 @@
 # Embedding-System-Project: Pong game
-## Video demo
 
 ## Các thiết bị phần cứng
 - 1 ESP32
@@ -12,8 +11,11 @@
 
 ### Sơ đồ nối mạch
 
+![](./sơ_đồ_nối_mạch.png)
 
-### mô phỏng trên wokwi
+### Mô phỏng trên wokwi
+
+Xem tại [đây](https://wokwi.com/projects/385959220934045697)
 
 
 ## Code
