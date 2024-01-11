@@ -19,6 +19,7 @@ Xem tại [đây](https://wokwi.com/projects/385959220934045697)
 
 ### Video Demo
 
+Xem tại [đây](./demo.mp4)
 
 ## Code
 ### Thư viện
